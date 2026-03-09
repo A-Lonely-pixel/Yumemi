@@ -1,4 +1,4 @@
-name: Trigger Doki builds
+name: Trigger Yumemi builds
 
 on:
   workflow_dispatch:
